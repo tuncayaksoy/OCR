@@ -9,3 +9,14 @@ D:\Projects\Training\C#\OCR\OCR.Test\obj\Debug\OCR.Test.csproj.CoreCompileInputs
 D:\Projects\Training\C#\OCR\OCR.Test\obj\Debug\OCR.Test.csproj.CopyComplete
 D:\Projects\Training\C#\OCR\OCR.Test\obj\Debug\OCR.Test.exe
 D:\Projects\Training\C#\OCR\OCR.Test\obj\Debug\OCR.Test.pdb
+D:\Projects\T_Repo\OCR\OCR.Test\bin\Debug\OCR.Test.exe.config
+D:\Projects\T_Repo\OCR\OCR.Test\bin\Debug\OCR.Test.exe
+D:\Projects\T_Repo\OCR\OCR.Test\bin\Debug\OCR.Test.pdb
+D:\Projects\T_Repo\OCR\OCR.Test\bin\Debug\OCR.Engine.dll
+D:\Projects\T_Repo\OCR\OCR.Test\bin\Debug\SimpleLPR2.dll
+D:\Projects\T_Repo\OCR\OCR.Test\bin\Debug\OCR.Engine.pdb
+D:\Projects\T_Repo\OCR\OCR.Test\obj\Debug\OCR.Test.csproj.AssemblyReference.cache
+D:\Projects\T_Repo\OCR\OCR.Test\obj\Debug\OCR.Test.csproj.CoreCompileInputs.cache
+D:\Projects\T_Repo\OCR\OCR.Test\obj\Debug\OCR.Test.csproj.CopyComplete
+D:\Projects\T_Repo\OCR\OCR.Test\obj\Debug\OCR.Test.exe
+D:\Projects\T_Repo\OCR\OCR.Test\obj\Debug\OCR.Test.pdb
