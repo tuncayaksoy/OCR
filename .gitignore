@@ -5,4 +5,6 @@
 /.vs/OCR
 /OCR.Engine
 /OCR.Test/bin
+/OCR.Test/bin/obj
 /OCR.Test/obj/Debug
+/OCR.Test/obj/Release
